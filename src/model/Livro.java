@@ -18,16 +18,16 @@ public class Livro {
         this.quantDisponivel = quantidade;
     }
 
-        public String getCodigo() {return codigo;}
-        public String getTitulo() {return titulo;}
-        public String getAutor() {return autor;}
-        public String getCategoria() {return categoria;}
-        public int getQuantTotal() {return quantTotal;}
-        public int getQuantDisponivel() {return quantDisponivel;}
+    public String getCodigo() {return codigo;}
+    public String getTitulo() {return titulo;}
+    public String getAutor() {return autor;}
+    public String getCategoria() {return categoria;}
+    public int getQuantTotal() {return quantTotal;}
+    public int getQuantDisponivel() {return quantDisponivel;}
 
-        public void setTitulo(String titulo) {this.titulo = titulo;}
-        public void setAutor(String autor) {this.autor = autor;}
-        public void setCategoria(String categoria) {this.categoria = categoria;}
-        public void setQuantTotal(int quantTotal) {this.quantTotal = quantTotal;}
-        public void setQuantDisponivel(int quantDisponivel) {this.quantDisponivel = quantDisponivel;}
+    public void setTitulo(String titulo) {this.titulo = titulo;}
+    public void setAutor(String autor) {this.autor = autor;}
+    public void setCategoria(String categoria) {this.categoria = categoria;}
+    public void setQuantTotal(int quantTotal) {this.quantTotal = quantTotal;}
+    public void setQuantDisponivel(int quantDisponivel) {this.quantDisponivel = quantDisponivel;}
 }
