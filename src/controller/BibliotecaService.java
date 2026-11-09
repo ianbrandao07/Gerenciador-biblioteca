@@ -7,12 +7,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Concentra os dados (em memoria) e as regras de negocio da biblioteca.
- * A tela (view) apenas chama estes metodos e mostra mensagens.
- * Quando uma regra e violada, o metodo lanca IllegalArgumentException
- * com a mensagem que deve ser exibida ao usuario.
- */
 public class BibliotecaService {
 
     private final List<Livro> livros = new ArrayList<>();
@@ -93,7 +87,6 @@ public class BibliotecaService {
         return null;
     }
 
-    /** Pesquisa por trecho do codigo ou do titulo. Termo vazio devolve todos. */
     public List<Livro> pesquisarLivros(String termo) {
         if (vazio(termo)) {
             return listarLivros();
@@ -133,10 +126,6 @@ public class BibliotecaService {
         livro.setQuantDisponivel(livro.getQuantDisponivel() - 1);
     }
 
-    /**
-     * Devolve o emprestimo pela posicao na lista de emprestimos
-     * (a mesma ordem exibida na tabela da tela).
-     */
     public void registrarDevolucao(int indice) {
         if (indice < 0 || indice >= emprestimos.size()) {
             throw new IllegalArgumentException("Empréstimo inválido!");
