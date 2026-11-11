@@ -20,7 +20,7 @@ Hudson Neves Silva
 6. Controle de empréstimos
 7. Relatório da biblioteca
 
-#### ☕ Versão do Java utilizada no desenvolvimento do trabalho
+#### ☕ Linguagem e ferramentas utilizadas no desenvolvimento do trabalho
 - JDK 21
 - Java Swing
 
