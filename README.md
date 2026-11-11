@@ -21,4 +21,22 @@ Hudson Neves Silva
 7. Relatório da biblioteca
 
 #### ☕ Versão do Java utilizada no desenvolvimento do trabalho
-Microsoft OpenJDK 21.0.13.0.2
+- JDK 21
+- Java Swing
+
+#### Estrutura do projeto
+
+```text
+src/
+├── controller/
+│   └── BibliotecaService.java
+├── model/
+│   ├── Emprestimo.java
+│   └── Livro.java
+└── view/
+    └── TelaPrincipal.java
+```
+
+- `model`: representa os livros e os empréstimos.
+- `controller`: contém as regras de negócio e o gerenciamento dos dados.
+- `view`: implementa a interface gráfica da aplicação.
