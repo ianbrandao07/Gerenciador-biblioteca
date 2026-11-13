@@ -10,6 +10,7 @@ Hudson Neves Silva
 #### 👨‍🎓 Alunos
 - Daniel Guimarães Botelho
 - Davi Miranda da Silva
+- Enzo Gabriel Ferreira dos Santos 
 - Ian Brandão dos Santos Ribeiro
 - José Gustavo de Queiroz Medeiros
 - Vinícius Moreira de Carvalho
