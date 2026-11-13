@@ -1,7 +1,7 @@
 # 📚 Gerenciador-biblioteca
 > Uma aplicação desktop para gerenciar o cadastro de livros e controlar empréstimos e devoluções de uma biblioteca acadêmica.
 
-#### Link do vídeo sobre a aplicação
+#### 🎞 Link do vídeo sobre a aplicação
 https://www.youtube.com/watch?v=4kn6Gih6sG0
 
 #### 👨‍🏫 Professor orientador
@@ -28,7 +28,7 @@ Hudson Neves Silva
 - JDK 21
 - Java Swing
 
-#### Estrutura do projeto
+#### 🗃 Estrutura do projeto
 
 ```text
 src/
