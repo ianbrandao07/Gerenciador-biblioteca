@@ -48,6 +48,9 @@ src/
 
 Confira o vídeo de apresentação para conhecer o funcionamento da aplicação:
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea266d6b-45a8-43b7-bdc8-acdb5482eff1" />
+
+
 [▶️ Assistir à demonstração do Gerenciador de Biblioteca](https://www.youtube.com/watch?v=4kn6Gih6sG0)
 
 ## 👨‍🏫 Orientação acadêmica
