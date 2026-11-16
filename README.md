@@ -46,10 +46,15 @@ src/
 
 ## 🎥 Demonstração do projeto
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/237242a4-b147-4ece-abb7-e8c54e793f01" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9edf1de8-d057-4f48-b5fd-0ff30af947eb" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c36391f8-c0bd-44c8-ba92-8a721a37347e" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef9663c1-2de9-4e98-a6a8-658d088257d1" />
+
 Confira o vídeo de apresentação para conhecer o funcionamento da aplicação:
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea266d6b-45a8-43b7-bdc8-acdb5482eff1" />
-
 
 [▶️ Assistir à demonstração do Gerenciador de Biblioteca](https://www.youtube.com/watch?v=4kn6Gih6sG0)
 
